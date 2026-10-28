@@ -37,8 +37,6 @@
   --nav-item-margin: 0 0 3rem 0;
   --nav-item-link-hover: var(--color-white);
   --section-tagline-margin: 0;
-
-  /* Task 25 Custom Properties */
   --button-display: inline-block;
   --button-padding: 1.5rem 3rem;
   --button-border: 0.2rem solid var(--color-primary);
@@ -48,8 +46,6 @@
   --button-hover-color: var(--color-white);
   --button-hover-text-decoration: none;
   --button-hover-background: var(--color-primary);
-
-  /* Task 28 Custom Properties */
   --header-padding: 4rem 0 0;
   --header-logo-position: relative;
   --header-logo-link-display: inline-block;
@@ -309,8 +305,6 @@ h1, h2, h3, h4, h5, h6 {
   top: var(--header-logo-link-top);
   left: var(--header-logo-link-left);
 }
-
-/* Task 29: Styling nav links */
 .nav .nav-link::before {
   content: "";
   position: absolute;
